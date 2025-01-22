@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"><img src="https://assets.infyom.com/open-source/infyom-logo.png" alt="InfyOm"></h1>
 
 ## Documentation
@@ -52,3 +53,7 @@ If you discover any security-related issues, create an issue using the issue tra
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+=======
+# movie_app
+Using PHP Laravel
+>>>>>>> b901d90ec520a9a7ee9267dfc4c5041e10d54e88
